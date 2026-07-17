@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2025 đến ngày 30/07/2025
 
-![Ảnh đại diện của bạn](images/hinhdaidien.jpg)
+![Ảnh đại diện của bạn](/images/hinhdaidien.jpg)
 
 
 
